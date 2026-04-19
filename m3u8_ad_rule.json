@@ -98,9 +98,9 @@
   {
     "name": "1080zyk",
     "hosts": [
-      "high24-playback",
-      "high20-playback",
+      "-playback",
       "yzzy.play",
+      "cdn.yzzy",
       "yzzy-dy"
     ],
     "regex": [
@@ -117,7 +117,8 @@
         "regex": [
             "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.800000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
             "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3\\.600000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.566667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.566667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3\\.900,[\\s\\S]*?#EXT-X-DISCONTINUITY"
         ]
     },
   {
