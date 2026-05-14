@@ -39,6 +39,7 @@ FOX资源,https://api.foxzyapi.com/api.php/provide/vod/
 天空资源,https://api.tiankongapi.com/api.php/provide/vod/
 FF9资源,https://www.ff9.top/api.php/provide/vod/
 看看资源,https://zy.hikan.xyz/api.php/provide/vod/
+HSCK,https://hsckzy888.com/api.php/provide/vod/
 #
 #优质资源
 U酷资源,https://api.ukuapi.com/api.php/provide/vod/
